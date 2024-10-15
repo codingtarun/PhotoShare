@@ -20,7 +20,18 @@
 
 <body class="page">
     <div class="app">
-        THis is the app
+        <header class="header">
+            HEADER
+        </header>
+        <div class="sidebar">
+            SIDEBAR
+        </div>
+        <section class="gallery">
+            GALLERY
+        </section>
+        <section class="steps">
+            STEPS
+        </section>
     </div>
 </body>
 
